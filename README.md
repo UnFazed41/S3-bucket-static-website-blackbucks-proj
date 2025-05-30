@@ -1,5 +1,5 @@
 ## Project Description
-This is a more advanced version of a static website hosted on Amazon S3. It contains multiple styled pages, a simulated contact form, navigation, and a custom 404 page.
+This is a static website hosted on Amazon S3. It contains multiple styled pages, a simulated contact form, navigation, and a custom 404 page.
 
 ## Objectives
 - Host a responsive and styled static website on S3.
